@@ -1,3 +1,6 @@
+# claims-ai-analytics
+AI-powered claims analytics project
+
 # Claims Analytics & AI Pipeline
 
 End-to-end analytics project on **synthetic healthcare claims data**: data quality → SQL analysis → anomaly detection & risk scoring → NLP on call transcripts → process mining → KPI dashboard.
